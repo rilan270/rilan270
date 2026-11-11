@@ -24,6 +24,17 @@ I am a senior Computer Science student with a minor in Data Science at Californi
   - Project was selected and presented at 2026 Saberseminar Conference.
 - CSUN ARCS Lab WATCHER Project
   - I am a part of the wheelchair navigation and object detection team. I am the team leader for my senior project design team.
+ 
+# Machine Learning Model Experience and their Projects
+- XGBoost Model
+  - ABS Challenge Value Project
+  - NBA Shot Outcome Prediction Model
+- Clustering Model
+  - What Pitch am I Throwing Project
+- Marcel the Monkey Inspired Model
+  - Using 4 years of historical data to predict HRs and Ks
+  - Only players from training set would be forecast, so we can use player specific historical information in the model rather than just features
+    - Weighted recent seasons heavier, adjusted for age and bat tracking information using ridge correction
 <!--
 **rilan270/rilan270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
