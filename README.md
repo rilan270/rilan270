@@ -45,7 +45,8 @@ I am a senior Computer Science student with a minor in Data Science at Californi
     - Specifically Andor and the Loki Series
   - Shogun
   - Severance
-  - James Bond and Mission Impossible Series
+  - James Bond and the Mission Impossible Series
+    - Specifically Skyfall and Ghost Protocol
   - Uncut Gems
   - and more...
 - Video Games
