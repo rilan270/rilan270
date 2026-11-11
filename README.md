@@ -24,11 +24,14 @@ I am a senior Computer Science student with a minor in Data Science at Californi
   - Project was selected and presented at 2026 Saberseminar Conference.
 - CSUN ARCS Lab WATCHER Project
   - I am a part of the wheelchair navigation and object detection team. I am the team leader for my senior project design team.
+- NOTE: Some of my listed projects were asked to be completed as a part of ongoing technical hiring processes.
+  - I do not have them publicly listed but would be happy to discuss my approach to solving their questions. 
  
 # Machine Learning Model Experience and their Projects
 - XGBoost Model
   - ABS Challenge Value Project
   - NBA Shot Outcome Prediction Model
+  - Pitcher K Rate Predictions
 - Clustering Model
   - What Pitch am I Throwing Project
 - Marcel the Monkey Inspired Model
