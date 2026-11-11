@@ -38,6 +38,28 @@ I am a senior Computer Science student with a minor in Data Science at Californi
   - Using 4 years of historical data to predict HRs and Ks
   - Only players from training set would be forecast, so we can use player specific historical information in the model rather than just features
     - Weighted recent seasons heavier, adjusted for age and bat tracking information using ridge correction
+   
+# Other Interests Outside Sports Analytics
+- Favorite Movies and TV Shows
+  - Anything Star Wars, Marvel and DC
+    - Specifically Andor and the Loki Series
+  - Shogun
+  - Severance
+  - James Bond and Mission Impossible Series
+  - Uncut Gems
+  - and more...
+- Video Games
+  - Marvel Rivals
+  - MLB the Show
+  - The Cal Kestis Jedi Series
+  - Insomniac's SpiderMan series
+- Favorite Books
+  - Brandon Sanderson's Cosmere Universe
+  - Dune
+  - Percy Jackson
+  - The Midrange Theory by Seth Partnow
+  - The Way of Baseball: Finding Stillness at 95 MPH by Shawn Green
+  - and more...
 <!--
 **rilan270/rilan270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
